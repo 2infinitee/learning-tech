@@ -113,11 +113,12 @@ __Bonus__ -- `open` a file or directory.
 
 ### Just me rambling on... for context.
 
-Businesses want to run efficently. In theory having a server with GUI consumes more resources and time. Just think about it, although graphics may consume more compute, memory and storage its more work for a computer, more electricity to keep it thinking and more electricity means more money. When you have hundrends and even thousands of servers with these extra GUI the mone stacks up.
+Businesses want to run efficently. In theory having a server with GUI consumes more resources and time. Just think about it, although graphics may consume more compute, memory and storage its more work for a computer, more electricity to keep it thinking and more electricity means more money. When you have hundrends and even thousands of servers with these extra GUI the all stack up.
 
-One of the perks of a command-line on servers like Linux/Unix are the ability to run scripts too. Scripts are kind of like a programming language but differ in that they use command-line commands. You can write them in a file from top to bottom and it will run the directions from top to bottom.
+One of the perks of a command-line on servers like Linux/Unix is the ability to run scripts. Scripts are kind of like a programming language but different in that they use command-line and system instructions. You can write them in a file from top to bottom and it will run the directions from top to bottom.
 
-On Windows Servers, especially older operating systems, can run on scripts (often in the form of a file extention .exe) but are notorious for their GUI which is fatiguing sometimes because you have to constantly interact with it and if the connection is poor/slow or just plain unresponsive using it becomes frustrating. I will say they they do manage users and teams a lot better. Which is why you will see more business us Windows Servers for managing their account creations for anyone new or deleting the obsolete. 
+On Windows Servers, especially older operating systems, can run on scripts (often in the form of a file  called .exe) but are notorious for their GUI which is fatiguing sometimes because you have to constantly interact with it and if the connection is poor/slow/unresponsive using it becomes frustrating. I will say Windows Server do manage users and access a lot better but for development they are a nightmare.
+
 > This managing tool/application is called Active Directory; AD for short. 
 
 Knowing how to navigate on the command-line will help you become a better coder (aka programmer, developer). Some of the tools you will commonely use to help you stay in sync with your team is heavly command-line based. 
