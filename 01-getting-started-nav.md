@@ -1,4 +1,4 @@
-# Getting Started with Computers
+# Getting Started with Nav
 
 ## Basic Navigation Commands
 List of basic commands on a terminal or command-line.

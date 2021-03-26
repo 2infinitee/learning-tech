@@ -1,4 +1,4 @@
-# Getting Started with Computers
+# Getting Started with read/write/delete
 
 ## Basic Read/Write Commands
 - `mkdir` -- creates a directory
